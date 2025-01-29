@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates an out-of-bounds array access error.  The `bug.rs` file shows the erroneous code, which panics when attempting to access an element beyond the array's bounds. The `bugSolution.rs` file provides a corrected version which uses safe methods to handle potential index errors.
